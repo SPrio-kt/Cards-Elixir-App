@@ -16,4 +16,8 @@ defmodule Cards do
     #:world
     "h1 there!"
   end
+  def hello 
+    "hi there!"
+  end
+  """
 end
