@@ -16,4 +16,7 @@ defmodule Cards do
     "h1 there!"
   end
   """
+  def create_deck do
+    ["Ace", "Two", "Three"]
+  end
 end
